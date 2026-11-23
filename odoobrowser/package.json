@@ -168,7 +168,7 @@
   },
   "dependencies": {
     "async-line-reader": "^1.0.0",
-    "fast-xml-parser": "^3.19.0",
+    "fast-xml-parser": "^5.12.0",
     "line-reader": "^0.4.0",
     "python-shell": "^2.0.3",
     "web-request": "^1.0.7",
